@@ -63,47 +63,42 @@ export default function Body (){
                         <div className="col-md-6 pad-hero-mob-left">
                             <div className="red-section">
                                 <div className="logo-circle-red"></div>
-                                <div className="container1">
-                                    <div className="list-item-cat">
-                                        <div className="item-cat">
+                                <div className="container1 h-100">
+                                    <div className="list-item-cat h-100">
+                                        <div className="item-cat h-100 position-relative">
                                             <Image
                                                 src="/Yellow-cat.png"
                                                 alt="Vercel Logo"
-                                                width={600}
-                                                height={600}
-                                                priority/>
+                                                fill={true}
+                                                objectFit="contain"/>
                                         </div>
-                                        <div className="item-cat">
+                                        <div className="item-cat h-100 position-relative">
                                             <Image
                                                 src="/BlackCat.png"
                                                 alt="Vercel Logo"
-                                                width={600}
-                                                height={600}
-                                                priority/>
+                                                fill={true}
+                                                objectFit="contain"/>
                                         </div>
-                                        <div className="item-cat">
+                                        <div className="item-cat h-100 position-relative">
                                             <Image
                                                 src="/GentalCat.png"
                                                 alt="Vercel Logo"
-                                                width={600}
-                                                height={600}
-                                                priority/>
+                                                fill={true}
+                                                objectFit="contain"/>
                                         </div>
-                                        <div className="item-cat">
+                                        <div className="item-cat h-100 position-relative">
                                             <Image
                                                 src="/NinjaCat.png"
                                                 alt="Vercel Logo"
-                                                width={600}
-                                                height={600}
-                                                priority/>
+                                                fill={true}
+                                                objectFit="contain"/>
                                         </div>
-                                        <div className="item-cat">
+                                        <div className="item-cat h-100 position-relative">
                                             <Image
                                                 src="/JudoCat.png"
                                                 alt="Vercel Logo"
-                                                width={600}
-                                                height={600}
-                                                priority/>
+                                                fill={true}
+                                                objectFit="contain"/>
                                         </div>
                                     </div>
                                 </div>
