@@ -12280,11 +12280,6 @@ input:checked ~ .tab-content {
     .navbar-dark .navbar-nav .nav-link {
         color: #f7f7f7 !important;
     }
-    .navbar.navbar-expand-lg.navbar-dark .container-fluid {
-        padding-left: 0 !important;
-        padding-right: 0 !important;
-        padding-top: 5px;
-    }
     .container1 {
         left: -18px;
     }
@@ -12296,6 +12291,11 @@ input:checked ~ .tab-content {
     .red-section {
         margin-top: 30px;
         height: 100%;
+    }
+    .navbar.navbar-expand-lg.navbar-dark .container-fluid {
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+        padding-top: 5px;
     }
 }
 @media (max-width: 767px) {
