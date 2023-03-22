@@ -49,7 +49,7 @@ export default function Body (){
                         <div className="col-md-6 monogatari-left-padding">
                             <div className="mid-section">
                                 <div className="stick stick-black  reveal reveal-down">
-                                    <h5 className="reveal reveal-right">Monogatari</h5>
+                                    <h5 className="reveal reveal-up">Monogatari</h5>
                                     <p className="reveal reveal-up">3027 AD. An evil regime has taken over the known world. Everything changed
                                         when a great force was released by the attack brought upon by the New Order.
                                         Orbs of great power were dispersed across the world. Only 7,777
@@ -160,7 +160,7 @@ export default function Body (){
                         <div className="col-md-5">
                             <div className="mid-section-orb">
                                 <div className="stick stick-white reveal reveal-down">
-                                    <h5 className="reveal reveal-right">Orbs of Z</h5>
+                                    <h5 className="reveal reveal-up">Orbs of Z</h5>
                                     <p className="reveal reveal-up">When the planet was attacked, eight Orbs of great force and energy were
                                         released by the New Order. When collected, it grants the holder incredible
                                         power corresponding to the force each Orb contains. The people of Z
@@ -295,7 +295,7 @@ export default function Body (){
                         <div className="innerBox">
                             <div className="ramen-section">
                                 <div className="stick stick-white reveal reveal-down">
-                                    <h5 className="reveal reveal-right">Ramen Shop</h5>
+                                    <h5 className="reveal reveal-up">Ramen Shop</h5>
                                     <p className="reveal reveal-up">The known world, a barren land, comes wanderers from another universe seeking
                                         answers for the lost world. In their journey, they have stumbled upon a
                                         peculiar place, a ramen shop run by an old man. Little did they know,

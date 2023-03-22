@@ -8,7 +8,7 @@ export default function Footer (){
                     <div className="row">
                         <div className="col-md-12 footer-section">
                             <h4 className='reveal reveal-up'>FAQ</h4>
-                            <div className="tabs reveal reveal-right">
+                            <div className="tabs reveal reveal-up">
                                 <div className="tab">
                                     <input type="checkbox" id="chck1" />
                                     <label className="tab-label" htmlFor="chck1">1. What Blockchain Will SoulZ Be On?</label>
@@ -16,7 +16,7 @@ export default function Footer (){
                                         <hr className="faq-line" />Ethereum
                                     </div>
                                 </div>
-                                <div className="tab reveal reveal-left">
+                                <div className="tab reveal reveal-up">
                                     <input type="checkbox" id="chck2" />
                                     <label className="tab-label" htmlFor="chck2">2. When Will Mint Be?</label>
                                     <div className="tab-content">
@@ -24,21 +24,21 @@ export default function Footer (){
                                             Collected SoulZ: 21 February 2022
                                     </div>
                                 </div>
-                                <div className="tab reveal reveal-right">
+                                <div className="tab reveal reveal-up">
                                     <input type="checkbox" id="chck3" />
                                     <label className="tab-label" htmlFor="chck3">3. How Much will the Mint be?</label>
                                     <div className="tab-content">
                                         <hr className="faq-line" />Dutch Auction 0.75E - 0.2E <br />Whitelist 0.2E
                                     </div>
                                 </div>
-                                <div className="tab reveal reveal-left">
+                                <div className="tab reveal reveal-up">
                                     <input type="checkbox" id="chck4" />
                                     <label className="tab-label" htmlFor="chck4">4. How Many SoulZ will there be?</label>
                                     <div className="tab-content">
                                         <hr className="faq-line" />7,777
                                     </div>
                                 </div>
-                                <div className="tab reveal reveal-right">
+                                <div className="tab reveal reveal-up">
                                     <input type="checkbox" id="chck5" />
                                     <label className="tab-label" htmlFor="chck5">5. How Many Can I Mint?</label>
                                     <div className="tab-content">
@@ -47,7 +47,7 @@ export default function Footer (){
                                             pre-sale.<br />Public mint will be capped at 3 per transaction
                                     </div>
                                 </div>
-                                <div className="tab reveal reveal-left">
+                                <div className="tab reveal reveal-up">
                                     <input type="checkbox" id="chck6" />
                                     <label className="tab-label" htmlFor="chck6">6. Where Can I Mint a SoulZ?</label>
                                     <div className="tab-content">
